@@ -1,10 +1,17 @@
-package com.coreJava;
+package com.tns.core.java;
 
 public class if_statement {
+
 	public static void main(String[] args) {
-		int n=20;
-		if(n<40) {
-			System.out.println("'n' less than 40  ");
+		// TODO Auto-generated method stub
+		int i=10;
+		if(i>15) {
+			System.out.println("Hii....Rabiya ");
+			
 		}
-}
+		System.out.println("Hiii.....Rabiya Anjum");
+		
+
+	}
+
 }
